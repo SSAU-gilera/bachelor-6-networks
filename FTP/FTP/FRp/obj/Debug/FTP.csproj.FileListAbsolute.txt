@@ -1,0 +1,20 @@
+C:\Users\роппг\source\repos\FRp\FRp\bin\Debug\FRp.exe.config
+C:\Users\роппг\source\repos\FRp\FRp\bin\Debug\FRp.exe
+C:\Users\роппг\source\repos\FRp\FRp\bin\Debug\FRp.pdb
+C:\Users\роппг\source\repos\FRp\FRp\obj\Debug\FTP.csprojAssemblyReference.cache
+C:\Users\роппг\source\repos\FRp\FRp\obj\Debug\FRp.Form1.resources
+C:\Users\роппг\source\repos\FRp\FRp\obj\Debug\FRp.Properties.Resources.resources
+C:\Users\роппг\source\repos\FRp\FRp\obj\Debug\FTP.csproj.GenerateResource.cache
+C:\Users\роппг\source\repos\FRp\FRp\obj\Debug\FTP.csproj.CoreCompileInputs.cache
+C:\Users\роппг\source\repos\FRp\FRp\obj\Debug\FRp.exe
+C:\Users\роппг\source\repos\FRp\FRp\obj\Debug\FRp.pdb
+C:\Users\Lera\Desktop\University\Study\Компьютерные сети\FTP\FTP\FRp\bin\Debug\FRp.exe.config
+C:\Users\Lera\Desktop\University\Study\Компьютерные сети\FTP\FTP\FRp\bin\Debug\FRp.exe
+C:\Users\Lera\Desktop\University\Study\Компьютерные сети\FTP\FTP\FRp\bin\Debug\FRp.pdb
+C:\Users\Lera\Desktop\University\Study\Компьютерные сети\FTP\FTP\FRp\obj\Debug\FTP.csprojAssemblyReference.cache
+C:\Users\Lera\Desktop\University\Study\Компьютерные сети\FTP\FTP\FRp\obj\Debug\FRp.Form1.resources
+C:\Users\Lera\Desktop\University\Study\Компьютерные сети\FTP\FTP\FRp\obj\Debug\FRp.Properties.Resources.resources
+C:\Users\Lera\Desktop\University\Study\Компьютерные сети\FTP\FTP\FRp\obj\Debug\FTP.csproj.GenerateResource.cache
+C:\Users\Lera\Desktop\University\Study\Компьютерные сети\FTP\FTP\FRp\obj\Debug\FTP.csproj.CoreCompileInputs.cache
+C:\Users\Lera\Desktop\University\Study\Компьютерные сети\FTP\FTP\FRp\obj\Debug\FRp.exe
+C:\Users\Lera\Desktop\University\Study\Компьютерные сети\FTP\FTP\FRp\obj\Debug\FRp.pdb
